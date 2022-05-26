@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Williams;Darrick;;;
+FN:Darrick Williams
+ORG:Chapel Hart
+ADR;TYPE=WORK:
+TITLE:Touring Manager
+TEL;TYPE=CELL:504-473-9723
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=WORK:info@chapelhart.com
+URL;TYPE=Digital Business Card:
+URL:https://chapelhart.com
+URL;TYPE=Website:https://chapelhart.com
+URL;TYPE=Instagram:https://instagram.com/chapelhartband
+URL;TYPE=Facebook:https://facebook.com/chapelhartband
+URL;TYPE=TikTok:https://tiktok.com/chapelhartband
+URL;TYPE=YouTube:https://youtube.com/chapelhart
+URL;TYPE=Twitter:https://twitter.com/chapelhartband
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100896670
+END:VCARD
